@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../NETFLIX"
+		},
+		{
+			"path": "../../../TWITTER"
+		},
+		{
+			"path": "../../../web designing"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Responsive"
+	}
+}
